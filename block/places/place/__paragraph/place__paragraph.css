@@ -1,0 +1,42 @@
+.place__paragraph {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29.34px;
+  max-width: 484px;
+  margin-top: 0;
+}
+
+.place__paragraph:nth-child(1) {
+  margin-top: 0;
+  max-height: 100%;
+}
+
+.place__paragraph:nth-child(2) {
+  margin-top: 26px;
+  max-height: 100%;
+}
+
+@media screen and (max-width: 1124px) {
+  .place__paragraph {
+    min-width: 456px;
+  }
+}
+
+@media screen and (max-width: 984px) {
+  .place__paragraph {
+    min-width: 352px;
+    font-size: 16px;
+    line-height: 26.08px;
+  }
+
+  .place__paragraph:nth-child(2) {
+    margin-top: 25px;
+  }
+}
+
+@media screen and (max-width: 568px) {
+  .place__paragraph {
+    min-width: 288px;
+  }
+}

@@ -1,0 +1,9 @@
+.place__paragraphs {
+    list-style-type: none;
+}
+
+@media screen and (max-width: 568px) {
+    .place__paragraph {
+      margin: 0 16px 0;
+    }
+  }

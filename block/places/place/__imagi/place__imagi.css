@@ -6,6 +6,7 @@
     background-position: center;
     background-size: cover;
     grid-row: 2/3;
+    list-style-type: none;
 }
 
 @media screen and (max-width: 1124px) {

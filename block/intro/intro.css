@@ -1,17 +1,17 @@
 .intro {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Inter', 'Arial', sans-serif;
   margin-left: 148px;
   max-width: 690px;
   padding: 0;
 }
 
-@media screen and (max-width: 1124px) {
+@media screen and (max-width: 1120px) {
   .intro {
     margin-left: 48px;
   }
 }
 
-@media screen and (max-width: 984px) {
+@media screen and (max-width: 900px) {
   .intro {
     min-width: 720px;
     margin: 0 24px 0;

@@ -6,14 +6,14 @@
   margin: 0 48px 0;
 }
 
-@media screen and (max-width: 1124px) {
+@media screen and (max-width: 1120px) {
   .photo-grid {
     gap: 14px;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   }
 }
 
-@media screen and (max-width: 984px) {
+@media screen and (max-width: 900px) {
   .photo-grid {
     gap: 16px;
     margin: 0 24px 0;

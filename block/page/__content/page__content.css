@@ -3,13 +3,13 @@
     margin-bottom: 92px;
 }
 
-@media screen and (max-width: 1140px) {
+@media screen and (max-width: 1120px) {
     .page__content {
         margin-top: 48px;
     }
 }
 
-@media screen and (max-width: 984px) {
+@media screen and (max-width: 900px) {
     .page__content {
         margin-bottom: 88px;
     }
@@ -17,7 +17,6 @@
 
 @media screen and (max-width: 586px) {
     .page__content {
-        margin-top: 48px;
         margin-bottom: 64px;
     }
 }

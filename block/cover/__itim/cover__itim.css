@@ -17,13 +17,13 @@
     z-index: 1;
 }
 
-@media screen and (max-width: 1124px) {
+@media screen and (max-width: 1120px) {
     .cover__itim {
         min-height: 640px;
     }
 }
 
-@media screen and (max-width: 984px) {
+@media screen and (max-width: 900px) {
     .cover__itim {
         min-height: 480px;
     }

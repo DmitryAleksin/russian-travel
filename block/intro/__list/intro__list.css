@@ -6,18 +6,11 @@
   padding-left: 0;
   list-style-type: none;
   max-width: 690px;
-  margin: 33px auto 0;
-}
-
-@media screen and (max-width: 900px) {
-  .intro__list {
-    min-width: 720px;
-  }
+  margin: 33px 0 0 0;
 }
 
 @media screen and (max-width: 568px) {
   .intro__list {
-    min-width: 288px;
-    margin: 34px auto 0;
+    margin: 34px 0 0 0;
   }
 }

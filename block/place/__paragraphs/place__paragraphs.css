@@ -2,8 +2,9 @@
     list-style-type: none;
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 660px) {
     .place__paragraphs {
       margin: 0 16px 0;
     }
   }
+  

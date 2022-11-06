@@ -18,8 +18,8 @@
 @import url(../block/lead/__subtitle/lead__subtitle.css);
 @import url(../block/lead/__imagi/lead__imagi.css);
 @import url(../block/lead/__caption/lead__caption.css);
-@import url(../block/numbers-size/numbers-size.css);
 
+@import url(../block/intro/__numbers/intro__numbers.css);
 @import url(../block/intro/intro.css);
 @import url(../block/intro/__title/intro__title.css);
 @import url(../block/intro/__text/intro__text.css);
